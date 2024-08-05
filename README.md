@@ -1,2 +1,1 @@
-# Meme-Generator
-sprint 2
+# sprint2-aug-24
